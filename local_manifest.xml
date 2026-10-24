@@ -29,16 +29,16 @@
     <!-- Hardware Xiaomi -->
     <project
         path="hardware/xiaomi"
-        name="hardware_xiaomi"
+        name="android_hardware_xiaomi"
         remote="Szes-Labs"
-        revision="16" />
+        revision="lineage-23.2" />
 
     <!-- Kernel -->
     <project
         path="kernel/xiaomi/sm6150"
         name="kernel_xiaomi_sm6150"
         remote="Szes-Labs"
-        revision="aosp" />
+        revision="16" />
 
     <!-- Dolby -->
     <project
