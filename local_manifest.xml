@@ -17,7 +17,7 @@
         path="vendor/xiaomi/courbet"
         name="vendor_xiaomi_courbet"
         remote="Szes-Labs"
-        revision="16.2" />
+        revision="16" />
 
     <!-- MIUI Camera -->
     <project
@@ -38,7 +38,7 @@
         path="kernel/xiaomi/sm6150"
         name="kernel_xiaomi_sm6150"
         remote="Szes-Labs"
-        revision="16" />
+        revision="aosp" />
 
     <!-- Dolby -->
     <project
